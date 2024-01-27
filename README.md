@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/justinus789](https://github.com/justinus789)
 
-- 💬 Ask me about **anything you want**
-
 - 📫 How to reach me **justinus0852@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
