@@ -42,6 +42,10 @@
   <code><a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a></code>
 </p>
 
-<h2 align="center">:bar_chart: Github Stats</h2>
+---
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justinus789&show_icons=true&theme=tokyonight" alt="Justinus's Github Stats" /></p>
+### :bar_chart: Github Stats
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?user=justinus789&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="Justinus's Github Stats" />
+</p>
