@@ -47,5 +47,5 @@
 ### :bar_chart: Github Stats
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?user=justinus789&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="Justinus's Github Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justinus789&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="Justinus's Github Stats" />
 </p>
